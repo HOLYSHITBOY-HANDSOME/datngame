@@ -9,5 +9,7 @@ package datnphu;
  * @author Admin
  */
 public class ee {
-    
+    private void hello(){
+        System.out.println("hello");
+    }
 }
