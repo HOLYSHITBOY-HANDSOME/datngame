@@ -10,6 +10,6 @@ package datnphu;
  */
 public class ee {
     private void hello(){
-        System.out.println("hello hello");
+        System.out.println("hello ");
     }
 }
